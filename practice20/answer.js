@@ -49,6 +49,6 @@ function reduceArr(arr) {
   )
 }
 
-console.log("recursive: ",recursiveArr(input));
-console.log("array.map: ",mapArr(input));
-console.log("array.reduce: ",reduceArr(input));
+console.log("recursive: ", recursiveArr(input));
+console.log("array.map: ", mapArr(input));
+console.log("array.reduce: ", reduceArr(input));
