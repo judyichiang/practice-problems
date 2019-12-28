@@ -52,3 +52,5 @@ function reduceArr(arr) {
 console.log("recursive: ", recursiveArr(input));
 console.log("array.map: ", mapArr(input));
 console.log("array.reduce: ", reduceArr(input));
+
+//completed randomize array, also w / recursion, array.map, array.reduce
