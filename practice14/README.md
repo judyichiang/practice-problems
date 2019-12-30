@@ -1,4 +1,4 @@
-## array factors
+## array factors - need to review
 
 Build a function that takes one array and finds all other elements of the array that are factors of its an element
 
