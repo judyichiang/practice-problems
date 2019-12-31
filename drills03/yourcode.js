@@ -4,7 +4,7 @@ function getPath(str) {
   return str.split("/");
 
 }
-//hardcoded
+//hardcoded -- needed to be refactored to pass the test suite
 function getPathParts(str) {
   str = str.split(":");
   var result = {};
@@ -55,6 +55,7 @@ function correctCalcChecker(arr) {
   return result;
 }
 
+//not included in the testing suite
 // function doMath(){
 
 // }
