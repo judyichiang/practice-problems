@@ -73,13 +73,3 @@ items.sort(function (a, b) {
 });
 
 console.log("value ",items);
-
-
-//--------------------------
-var objs = [
-  { first_nom: 'Lazslo', age: 23 },
-  { first_nom: 'Pig', age: 32 },
-  { first_nom: 'Pirate', age: 19 }
-];
-
-console.log("age: ",objs.sort(function (a, b) { return b.last_nom > a.last_nom }))
